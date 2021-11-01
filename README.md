@@ -21,3 +21,4 @@
 ## Libraries
 
 - [kbar](https://github.com/timc1/kbar) – A portable, extensible and React-based cmd+k interface for your site.
+- [react-command-palette: An accessible browser compatible javascript command palette](https://github.com/asabaylus/react-command-palette) - An accessible browser compatible javascript command palette
